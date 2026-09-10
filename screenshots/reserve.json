@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/reserve",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Reserve — Lavender Grill",
+      "hasCanvas": false,
+      "bodyTextLen": 1424,
+      "bodyTextHash": "00a6340b9870f5c26deeb7b52f1c91cf07a9776d12a82828ad9265878bcfb50a",
+      "bodyTextPrefix": "Skip to content 47 CLARENCE ST, UNIT 101 & 102 · OTTAWA, ON K1N ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/reserve.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Reserve — Lavender Grill",
+      "hasCanvas": false,
+      "bodyTextLen": 1304,
+      "bodyTextHash": "e564cd12639a4571a7abaece61bf798a17f25a7a0147cf82bcc3afd2465c76df",
+      "bodyTextPrefix": "Skip to content Lavender GRILL & LOUNGE BYWARD MARKET Reserve a ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/reserve-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/reserve.json"
+}

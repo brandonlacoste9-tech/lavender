@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/membership",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Membership Club — Lavender Grill",
+      "hasCanvas": false,
+      "bodyTextLen": 1569,
+      "bodyTextHash": "db0ce3e607208e2cf809915ab0eb7fae645bf9c3d14badad3baaf31ede6e2336",
+      "bodyTextPrefix": "Skip to content 47 CLARENCE ST, UNIT 101 & 102 · OTTAWA, ON K1N ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/membership.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Membership Club — Lavender Grill",
+      "hasCanvas": false,
+      "bodyTextLen": 1449,
+      "bodyTextHash": "25542847d80a9e4a65ce11bbd84e7537a7ff307385246ec915c08feb1c153913",
+      "bodyTextPrefix": "Skip to content Lavender GRILL & LOUNGE LOYALTY Where loyalty me",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/membership-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/membership.json"
+}

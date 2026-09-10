@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/events",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Private Events — Lavender Grill",
+      "hasCanvas": false,
+      "bodyTextLen": 3527,
+      "bodyTextHash": "2e13e491ed200a3b4599df2fd50dd30fd8ea7f938612170c8fc57d3a8dafccad",
+      "bodyTextPrefix": "Skip to content 47 CLARENCE ST, UNIT 101 & 102 · OTTAWA, ON K1N ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/events.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Private Events — Lavender Grill",
+      "hasCanvas": false,
+      "bodyTextLen": 3407,
+      "bodyTextHash": "e565843f4041dbc30109e6c785099dedcc1b4ca6b87e464be06802cc4ec4a0d2",
+      "bodyTextPrefix": "Skip to content Lavender GRILL & LOUNGE THE BEST PRIVATE EVENT H",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/events-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/events.json"
+}

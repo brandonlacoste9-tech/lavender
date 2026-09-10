@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/menu",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Menu — Lavender Grill",
+      "hasCanvas": false,
+      "bodyTextLen": 3735,
+      "bodyTextHash": "84ea89cdc138bc6163b4a41ac17d8befbbc731fdfa8c534a7bf0c16d94c995b3",
+      "bodyTextPrefix": "Skip to content 47 CLARENCE ST, UNIT 101 & 102 · OTTAWA, ON K1N ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/menu.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Menu — Lavender Grill",
+      "hasCanvas": false,
+      "bodyTextLen": 3615,
+      "bodyTextHash": "58523bd0ff7c96e62be9b3bd0445254ee33eb01ac3371875eb9d92126195d1f7",
+      "bodyTextPrefix": "Skip to content Lavender GRILL & LOUNGE THE KITCHEN Menu Contemp",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/menu-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/menu.json"
+}

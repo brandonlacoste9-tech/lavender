@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Lavender Grill",
+      "hasCanvas": false,
+      "bodyTextLen": 3857,
+      "bodyTextHash": "735a2d4f8c214b9f7613e3766a85b258baf3e4e5422ab12bd8279151a2e780ae",
+      "bodyTextPrefix": "Skip to content 47 CLARENCE ST, UNIT 101 & 102 · OTTAWA, ON K1N ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Lavender Grill",
+      "hasCanvas": false,
+      "bodyTextLen": 3726,
+      "bodyTextHash": "4b5338f3eaf054daa38d102ec6366416b6c5d75eafc60dff17caac694a477b98",
+      "bodyTextPrefix": "Skip to content Lavender GRILL & LOUNGE A TASTE FROM OTTAWA Heav",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
